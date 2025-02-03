@@ -1,16 +1,90 @@
-[
-  {
-    "titulo": "Ingeniería de Software",
-    "institucion": "Facultad de Telemática - Universidad de Colima",
-    "descripcion": "Estudie la carrera de ingeniería en software en la facultad de telemática, no concluí mis estudios, dejé la carrera trunca, cuento únicamente con un certificado parcial de mis estudios.",
-    "anio": "2012 - 2016",
-    "imagen": "favicon.ico"
-  },
-  {
-    "titulo": "Técnico Analista Programador",
-    "institucion": "Bachillerato Técnico #8 - Universidad de Colima",
-    "descripcion": "Curse mis estudios de técnico Analista Programador, desarrolle mi lógica de programación, aprendí lo básico de lenguajes como php y administración de base de datos.",
-    "anio": "2009 - 2012",
-    "imagen": "assets/education-img2.jpg"
-  }
-]
+{
+    "educacion": [
+        {
+            "titulo": "Ingeniería de Software",
+            "institucion": "Universidad de Colima",
+            "facultad": "Facultad de Telemática",
+            "descripcion": "Estudie la carrera de ingeniería en software en la facultad de telemática, no concluí mis estudios, dejé la carrera trunca, cuento únicamente con un certificado parcial de mis estudios.",
+            "anio_ingreso": 2012,
+            "anio_egreso": 2016,
+            "concluido": false,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Facultad_Telematica.jpg"
+        },
+        {
+            "titulo": "Técnico Analista Programador",
+            "institucion": "Universidad de Colima",
+            "facultad": "Bachillerato Técnico #8",
+            "descripcion": "Curse mis estudios de técnico Analista Programador, desarrolle mi lógica de programación, aprendí lo básico de lenguajes como php y administración de base de datos.",
+            "anio_ingreso": 2009,
+            "anio_egreso": 2012,
+            "concluido": true,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Bachillerato.jpg"
+        }
+    ],
+    "cursos": [
+        {
+            "titulo": "Diplomado Tecnologías de información para la innovación y desarrollo",
+            "institucion": "Universidad de Colima",
+            "descripcion": "En este diplomado repasamos lo básico de varios lenguajes de programación como fueron: React-Native, Kotlin, Ionic (Programación web y móvil). Utilizamos el lenguaje Python para realizar actividades de cómputo númerico. También aprendí a utilizar una tarjeta de desarrollo NodeMCU para un proyecto de IoT, con ayuda de sensores y actuadores.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Tecnologias_Informacion_Innovacion_Desarrollo.jpg"
+        },
+        {
+            "titulo": "Seminario Investigación en Transformación Digital",
+            "institucion": "Universidad de Colima",
+            "descripcion": "Este seminario trato de las nuevas tecnologías y cual a sido su impacto en la industria, como las tecnologías digitales están ayudando en las cosas mas cotidianas de la vida.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Investigacion_Transformacion_Digital.png"
+        },
+        {
+            "titulo": "NDG Linux Unhatched",
+            "institucion": "Plataforma Online",
+            "descripcion": "Este curso fue un repaso de la Utilización de comandos básicos de Linux.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/NDG_Linux_Essentials.png"
+        },
+        {
+            "titulo": "PCAP: Programming Essentials in Python",
+            "institucion": "Plataforma Online",
+            "descripcion": "En este curso, aprendí habilidades muy demandadas, como cómo diseñar, desarrollar y mejorar programas informáticos, métodos para analizar problemas mediante programación, mejores prácticas de programación y más.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/PCAP_Programming_Essential_In_Python.png"
+        },
+        {
+            "titulo": "JavaScript Essentials 1 (JSE)",
+            "institucion": "Plataforma Online",
+            "descripcion": "Este curso fue un repaso sobre nociones básicas del lenguaje de programación JavaScript.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/JavaScript_Essential_1_JSE.png"
+        },
+        {
+            "titulo": "IoT Fundamentals: Connecting Things",
+            "institucion": "Plataforma Online",
+            "descripcion": "Con este curso aprendí: Explicar de qué manera las tecnologías de IoT transforman a las empresas y a la sociedad. Utilizar sensores, accionadores y microcontroladores (Arduino) para realizar un prototipo de una solución de IoT. Utilizar Python, Cisco PL-App y Raspberry Pi para realizar un prototipo de una solución de IoT. Entre más habilidades.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/IoT_Fundamentals_Connecting_Things.png"
+        },
+        {
+            "titulo": "Introducción a IoT",
+            "institucion": "Plataforma Online",
+            "descripcion": "Con este curso aprendí: Explicar cómo IoT y la transformación digital tienen un impacto positivo en las empresas y los gobiernos. Explicar las ventajas de la automatización y la inteligencia artificial para la transformación digital. Explicar la necesidad de seguridad mejorada en el mundo digitalizado. Entre más habilidades.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Introduccion_a_IoT.png"
+        },
+        {
+            "titulo": "Cybersecurity Essentials",
+            "institucion": "Plataforma Online",
+            "descripcion": "Con este curso aprendí a describir las tácticas, técnicas y procedimientos utilizados por los ciberdelincuentes. Describir los principios de confidencialidad, integridad y disponibilidad en lo relativo al estado de la información y contramedidas de seguridad cibernética. Entre otras cosas.",
+            "anio_ingreso": 2022,
+            "anio_egreso": null,
+            "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Cybersecurity_Essentials.png"
+        }
+    ]
+}

@@ -1,1 +1,68 @@
-
+[
+    {
+        "posicion": "Desarrollador Full-Stack",
+        "compania": "CAPI Software",
+        "descripcion": "Trabaje en una empresa que brinda un sistema administrativo enfocado en clientes de la industria inmobiliaria, donde se gestiona todo el proceso, desde la construcción hasta la venta/renta de los inmuebles.",
+        "actividades": [
+            {
+                "nombre":"Creación de nuevos módulos"
+            },
+            {
+                "nombre": "Corrección de errores"
+            },
+            {
+                "nombre": "Optimizaciones de código"
+            }
+        ],
+        "fecha_ingreso": "Septiembre 2022",
+        "fecha_egreso": "Septiembre 2024",
+        "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Inmobiliaria.png"
+    },
+    {
+        "posicion": "Desarrollador web y móvil",
+        "compania": "TAP Terminal Portuaria",
+        "descripcion": "Trabaje un año en el departamento de sistemas de una empresa portuaria, donde colaboraba en la actualización y desarrollo continuo del portal (web y móvil) administrativo y operativo interno.",
+        "actividades": [
+            {
+                "nombre": "Creación de nuevos módulos"
+            },
+            {
+                "nombre": "Corrección de errores"
+            },
+            {
+                "nombre": "Optimizaciones de código"
+            },
+            {
+                "nombre": "Creación de manuales de usuarios y técnicos"
+            }
+        ],
+        "fecha_ingreso": "Junio 2021",
+        "fecha_egreso": "Septiembre 2022",
+        "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Terminal_Portuaria.png"
+    },
+    {
+        "posicion": "Becario de sistemas Universidad de Colima",
+        "compania": "Universidad de Colima",
+        "descripcion": "Estuve de becario en el área de sistemas del departamento de desarrollo social de la Universidad de Colima, donde desarrolle un sistema en visual basic .NET que utilizábamos para el registro de proyectos y voluntarios, llevar un control de quienes participaban en que proyectos y el tiempo que le dedicaban.",
+        "actividades": [
+            {
+                "nombre": "Desarrollo de nuevas funcionalidades del sistema"
+            },
+            {
+                "nombre": "Creación de manuales de usuario"
+            },
+            {
+                "nombre": "Capacitación del personal"
+            },
+            {
+                "nombre": "Administración de la base de datos"
+            },
+            {
+                "nombre": "Creación de sitios web para el registro de voluntarios"
+            }
+        ],
+        "fecha_ingreso": "2015",
+        "fecha_egreso": "2017",
+        "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/Universidad.png"
+    }
+]
