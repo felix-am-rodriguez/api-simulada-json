@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Ingeniería de Software",
+    "institucion": "Facultad de Telemática - Universidad de Colima",
+    "descripcion": "Estudie la carrera de ingeniería en software en la facultad de telemática, no concluí mis estudios, dejé la carrera trunca, cuento únicamente con un certificado parcial de mis estudios.",
+    "anio": "2012 - 2016",
+    "imagen": "favicon.ico"
+  },
+  {
+    "titulo": "Técnico Analista Programador",
+    "institucion": "Bachillerato Técnico #8 - Universidad de Colima",
+    "descripcion": "Curse mis estudios de técnico Analista Programador, desarrolle mi lógica de programación, aprendí lo básico de lenguajes como php y administración de base de datos.",
+    "anio": "2009 - 2012",
+    "imagen": "assets/education-img2.jpg"
+  }
+]
