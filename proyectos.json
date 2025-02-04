@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "API REST con Java y Spring Boot",
+        "descripcion": "API REST sencilla CRUD, realizada con spring boot y el lenguaje de programación java, utiliza una base de datos SQLite para la persistencia de datos.",
+        "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/spring_boot.png",
+        "link": "https://github.com/felix-am-rodriguez/"
+    },
+    {
+        "nombre": "API REST con Laravel",
+        "descripcion": "API REST sencilla realizada con el framework Laravel y una base de datos SQLite.",
+        "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/laravel.png",
+        "link": "https://github.com/felix-am-rodriguez"
+    },
+    {
+        "nombre": "Front-end con Angular y Angular Material",
+        "descripcion": "Front-end que consume una api generica y muestra la información.",
+        "imagen": "https://raw.githubusercontent.com/felix-am-rodriguez/api-simulada-json/refs/heads/master/imagenes/angular.png",
+        "link": "https://github.com/felix-am-rodriguez"
+    }
+]
